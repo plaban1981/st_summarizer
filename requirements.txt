@@ -1,0 +1,6 @@
+transformers==4.24.0
+torch==1.12.1
+sentencepiece==0.1.94
+bert-extractive-summarizer==0.10.1
+sentence-transformers==2.2.2
+streamlit
